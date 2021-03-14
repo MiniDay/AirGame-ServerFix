@@ -1,0 +1,4 @@
+name: AirGame-Fix
+version: ${project.version}
+main: net.airgame.bukkit.fix.FixPlugin
+api-version: 1.16
